@@ -42,6 +42,7 @@ configure threshold-based alerts, and perform load testing to observe system beh
 
 
 ** Key Features:**
+
 1.Deployed applications using Kubernetes Deployments and Services.
 
 2.Created a local Kubernetes cluster using Minikube.
